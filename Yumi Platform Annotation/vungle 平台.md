@@ -5,11 +5,11 @@
 
 2.  Video Placement ID 
     
-    在[Vungle 开发者管理](https://dashboard.vungle.com/dashboard/accounts/pub) 页面，选择您的应用，点击"Add New Placement"创建新的视频广告位，在应用列表页"Reference ID"为须填写的参数。
+    在[Vungle 开发者管理](https://dashboard.vungle.com/dashboard/accounts/pub) 页面，选择您的应用，点击Application stage 找到对应的Viedo Placement ID。
 
 3.  Interstitial Placement ID
      
-     在[Vungle 开发者管理](https://dashboard.vungle.com/dashboard/accounts/pub)页面，选择您的应用，点击"Add New Placement"创建新的插屏广告位，在应用列表页"Reference ID"为须填写的参数。
+     在[Vungle 开发者管理](https://dashboard.vungle.com/dashboard/accounts/pub)页面，选择您的应用，点击Application stage 找到对应的 Placement ID。
 
 4. Account
     
